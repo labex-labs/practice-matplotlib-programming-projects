@@ -6,10 +6,10 @@
 
 Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                             |
-|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
-|       1 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|       2 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)              |
+|   Index | Name                                                                                                                                        | Level   | Project Link                                                                                    |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|       1 | [Gravitational Simulation of Earth and Super Jupiter](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|       2 | [Linear Regression Fitting and Plotting](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                           | ★☆☆     | [🚀 Start](https://labex.io/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## More Projects
 
