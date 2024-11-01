@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 </div>
 
-Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. This Skill Tree offers a structured learning path for mastering data visualization with Matplotlib. Ideal for data science beginners, it provides a clear roadmap to understand plot types, customization, and integration with data analysis workflows. Through hands-on, non-video courses and practical exercises in an interactive plotting playground, you'll gain real-world experience in creating compelling data visualizations.
 
 |   Index | Name                                                                                                                                        | Level   | Project Link                                                                                    |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
@@ -14,15 +14,15 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 ## More Projects
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
+- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
+- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
 - [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
+- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
+- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
 - [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
 - [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
 - [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
@@ -32,10 +32,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -45,7 +42,6 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
