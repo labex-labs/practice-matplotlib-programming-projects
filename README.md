@@ -12,14 +12,14 @@ Matplotlib is a comprehensive Python library for creating static, animated, and 
 
 ## Exercises
 
-|   Index | Name                                                                                                                                           | Difficulty   | Practice                                                                                                |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
-|       1 | [Gravitational Simulation of Earth and Super Jupiter](https://labex.io/en/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|       2 | [Linear Regression Fitting and Plotting](https://labex.io/en/courses/project-linear-regression-fitting-and-plotting)                           | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-linear-regression-fitting-and-plotting)              |
+|   Index | Name                                                                                                                                        | Difficulty   | Practice                                                                                             |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|       1 | [Gravitational Simulation of Earth and Super Jupiter](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|       2 | [Linear Regression Fitting and Plotting](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                           | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## More
 
-- 🔗 [Matplotlib Learn more about](https://labex.io/en/skilltrees/matplotlib)
+- 🔗 [Matplotlib Learn more about](https://labex.io/skilltrees/matplotlib)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
