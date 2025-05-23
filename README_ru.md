@@ -14,12 +14,12 @@ Matplotlib — это универсальная библиотека Python д�
 
 |   Индекс | Название                                                                                                                                                     | Сложность   | Практика                                                                                                         |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------|
-|        1 | [Гравитационное моделирование взаимодействия Земли и Супер-Юпитера](https://labex.io/ru/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|        2 | [Подгонка и построение графика линейной регрессии](https://labex.io/ru/courses/project-linear-regression-fitting-and-plotting)                               | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-linear-regression-fitting-and-plotting)              |
+|        1 | [Гравитационное моделирование взаимодействия Земли и Супер-Юпитера](https://labex.io/ru/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|        2 | [Подгонка и построение графика линейной регрессии](https://labex.io/ru/courses/project-linear-regression-fitting-and-plotting)                               | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## Больше
 
 - 🔗 [Matplotlib Узнать больше о](https://labex.io/ru/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
 
