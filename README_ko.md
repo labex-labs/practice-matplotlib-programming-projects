@@ -14,12 +14,12 @@ Matplotlib 는 정적, 애니메이션 및 대화형 시각화를 생성하기 �
 
 |   인덱스 | 이름                                                                                                                          | 난이도   | 연습                                                                                                    |
 |----------|-------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------|
-|        1 | [지구와 슈퍼 목성의 중력 시뮬레이션](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|        2 | [선형 회귀 분석 및 시각화](https://labex.io/ko/courses/project-linear-regression-fitting-and-plotting)                        | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-linear-regression-fitting-and-plotting)              |
+|        1 | [지구와 슈퍼 목성의 중력 시뮬레이션](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|        2 | [선형 회귀 분석 및 시각화](https://labex.io/ko/courses/project-linear-regression-fitting-and-plotting)                        | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## 더 보기
 
 - 🔗 [Matplotlib 자세히 알아보기](https://labex.io/ko/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
