@@ -14,12 +14,12 @@ Matplotlib es una biblioteca completa de Python para crear visualizaciones está
 
 |   Índice | Nombre                                                                                                                                               | Dificultad   | Práctica                                                                                                          |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
-|        1 | [Simulación gravitatoria de la Tierra y el 'Super Júpiter'](https://labex.io/es/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|        2 | [Ajuste y representación gráfica de la regresión lineal](https://labex.io/es/courses/project-linear-regression-fitting-and-plotting)                 | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-linear-regression-fitting-and-plotting)              |
+|        1 | [Simulación gravitatoria de la Tierra y el 'Super Júpiter'](https://labex.io/es/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|        2 | [Ajuste y representación gráfica de la regresión lineal](https://labex.io/es/courses/project-linear-regression-fitting-and-plotting)                 | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## Más
 
 - 🔗 [Matplotlib Aprende más sobre](https://labex.io/es/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Proyectos de Programación Increíbles](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cursos de Programación Increíbles](https://github.com/labex-labs/awesome-programming-courses)
 
