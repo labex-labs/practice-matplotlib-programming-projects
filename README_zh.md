@@ -14,12 +14,12 @@ Matplotlib 是一个功能全面的 Python 库，用于创建静态、动态和�
 
 |   序号 | 名称                                                                                                                | 难度   | 练习                                                                                                   |
 |--------|---------------------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------|
-|      1 | [地球与超级木星的引力模拟](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|      2 | [线性回归拟合与绘图](https://labex.io/zh/courses/project-linear-regression-fitting-and-plotting)                    | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-linear-regression-fitting-and-plotting)              |
+|      1 | [地球与超级木星的引力模拟](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|      2 | [线性回归拟合与绘图](https://labex.io/zh/courses/project-linear-regression-fitting-and-plotting)                    | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## 更多
 
 - 🔗 [Matplotlib 了解更多](https://labex.io/zh/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
