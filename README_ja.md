@@ -14,12 +14,12 @@ Matplotlib は、静的、アニメーション、インタラクティブな視
 
 |   インデックス | 名前                                                                                                                                | 難易度   | 練習                                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------|
-|              1 | [地球とスーパー木星の重力シミュレーション](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|              2 | [線形回帰のフィッティングとプロット](https://labex.io/ja/courses/project-linear-regression-fitting-and-plotting)                    | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-linear-regression-fitting-and-plotting)              |
+|              1 | [地球とスーパー木星の重力シミュレーション](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|              2 | [線形回帰のフィッティングとプロット](https://labex.io/ja/courses/project-linear-regression-fitting-and-plotting)                    | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## その他
 
 - 🔗 [Matplotlib 詳細について](https://labex.io/ja/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
