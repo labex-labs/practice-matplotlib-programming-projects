@@ -14,12 +14,12 @@ Matplotlib ist eine umfassende Python-Bibliothek zur Erstellung von statischen, 
 
 |   Index | Name                                                                                                                                         | Schwierigkeit   | Übung                                                                                                       |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------|
-|       1 | [Gravitationssimulation von Erde und Super-Jupiter](https://labex.io/de/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
-|       2 | [Lineare Regression Anpassung und Visualisierung](https://labex.io/de/courses/project-linear-regression-fitting-and-plotting)                | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-linear-regression-fitting-and-plotting)              |
+|       1 | [Gravitationssimulation von Erde und Super-Jupiter](https://labex.io/de/courses/project-gravitational-simulation-of-earth-and-super-jupiter) | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
+|       2 | [Lineare Regression Anpassung und Visualisierung](https://labex.io/de/courses/project-linear-regression-fitting-and-plotting)                | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-linear-regression-fitting-and-plotting)              |
 
 ## Mehr
 
 - 🔗 [Matplotlib Erfahren Sie mehr über](https://labex.io/de/skilltrees/matplotlib)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
 
