@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 </div>
 
-Matplotlib es una biblioteca completa de Python para crear visualizaciones estáticas, animadas e interactivas. Este Skill Tree proporciona un camino de aprendizaje estructurado para dominar la visualización de datos con Matplotlib. Es ideal para principiantes en ciencia de datos, ofreciendo una hoja de ruta clara para entender los tipos de gráficos, la personalización y la integración en flujos de trabajo de análisis de datos. A través de cursos prácticos sin video y ejercicios en un entorno interactivo de gráficos, adquirirás experiencia real en la creación de visualizaciones de datos atractivas.
+Aprende Matplotlib, una biblioteca integral de Python para crear visualizaciones estáticas, animadas e interactivas. Esta ruta de aprendizaje estructurada ofrece una serie de cursos de Matplotlib diseñados para principiantes en ciencia de datos. La hoja de ruta cubre tipos de gráficos fundamentales, personalización avanzada e integración en flujos de trabajo de análisis de datos. Gana experiencia práctica completando ejercicios prácticos sin video en un entorno interactivo de trazado para dominar la visualización de datos en el mundo real.
 
 ## Ejercicios
 
