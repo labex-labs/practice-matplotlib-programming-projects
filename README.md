@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 </div>
 
-Matplotlib is a comprehensive Python library for creating static, animated, and interactive visualizations. This Skill Tree provides a structured learning path to master data visualization with Matplotlib. It's perfect for data science beginners, offering a clear roadmap to understand plot types, customization, and integration into data analysis workflows. Through hands - on, non - video courses and practical exercises in an interactive plotting playground, you'll gain real - world experience in creating engaging data visualizations.
+Learn Matplotlib, a comprehensive Python library for creating static, animated, and interactive visualizations. This structured learning path offers a series of Matplotlib courses designed for data science beginners. The roadmap covers fundamental plot types, advanced customization, and integration into data analysis workflows. Gain practical experience by completing hands-on, non-video exercises in an interactive plotting playground to master real-world data visualization.
 
 ## Exercises
 
